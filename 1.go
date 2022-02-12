@@ -18,6 +18,6 @@ func main() {
 	const Truth = true
 	fmt.Println("Go rules?", Truth)
 	hello.SayHi()
-	b := "年后打工"
-	fmt.Printf("b类型为：%T\n", b)
+	//b := "年后打工"
+	//fmt.Printf("b类型为：%T\n", b)
 }
